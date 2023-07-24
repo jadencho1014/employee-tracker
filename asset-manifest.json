@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/employee-tracker/static/css/main.c033124d.css",
+    "main.js": "/employee-tracker/static/js/main.df662e31.js",
+    "index.html": "/employee-tracker/index.html",
+    "main.c033124d.css.map": "/employee-tracker/static/css/main.c033124d.css.map",
+    "main.df662e31.js.map": "/employee-tracker/static/js/main.df662e31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c033124d.css",
+    "static/js/main.df662e31.js"
+  ]
+}
